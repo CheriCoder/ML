@@ -1,5 +1,5 @@
 Lab 1 - Dataset10.csv
 Lab 2 - ENJOYSPORT.csv
-Lab 3 - Dataset10 or PlayTennis.csv
+Lab 3 - (Dataset10.csv or PlayTennis.csv) + testdata.csv
 Lab 5 - diabetes.csv
 Lab 6 - heart.csv
