@@ -5,9 +5,9 @@ Lab 4 -  ANN
 Lab 5 - diabetes.csv
 Lab 6 - heart.csv
 Lab 7 - Iris
-Lab 8 - iris
+Lab 8 - Iris
 Lab 9 - Synthetic dataset
-Lab 10 - iris
+Lab 10 - Iris
 
 Part B:
 Car price prediction - Regression
